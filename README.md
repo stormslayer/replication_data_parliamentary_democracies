@@ -10,5 +10,9 @@ ii. Party Policy in Modern Democracies.  Cite: Kenneth Benoit and Michael Laver.
 
 iii. Code written to calculate a variety of pivotality measures.  Cite: de Marchi, Scott, Max Gallop, and Michael Laver. "Pivotality Measures". https://github.com/stormslayer/Minimum_Integer_Weights. 2023.
 
+iv. Parlgov (https://www.parlgov.org/).  Cite: Döring, Holger, Constantin Huber, Philip Manow, Maike Hesse and Alexandra Quaas. 2023. Parliaments and governments database (ParlGov): Information on parties, elections and cabinets in established democracies. Development version.
+
 Each of the cases has been corrected for errors and in some, there are mutiple versions to reflect differing (reasonable) judgments about the "true" values.  
+
+**NOTE**: In the zip file for the cases, there is a word doc "missing data decisions" -- this covers many of the changes made to correct for errors / missingness (but not all).  For any given cases, we tried to triangulate the correct values by using CHES, Benoit / Laver, parlgov, wikipedia, and press coverage of the election / government coalition.
 
