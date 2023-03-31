@@ -8,7 +8,7 @@ i. Chapel Hill Expert Survey (https://www.chesdata.eu/).  Cite: Jolly, Seth, Rya
 
 ii. Party Policy in Modern Democracies.  Cite: Kenneth Benoit and Michael Laver.  2005.  Party Policy in Modern Democracies.  London: Routledge.
 
-iii. Code written to calculate a variety of pivotality measures.  Cite: de Marchi, Scott, Max Gallop, and Michael Laver. "Pivotality Measures". https://github.com/stormslayer/Minimum_Integer_Weights. 2023.
+iii. Code written to calculate a variety of pivotality measures.  Cite: de Marchi, Scott, and Michael Laver. The Governance Cycle in Parliamentary Democracies. Cambridge University Press, 2023.
 
 iv. Parlgov (https://www.parlgov.org/).  Cite: Döring, Holger, Constantin Huber, Philip Manow, Maike Hesse and Alexandra Quaas. 2023. Parliaments and governments database (ParlGov): Information on parties, elections and cabinets in established democracies. Development version.
 
